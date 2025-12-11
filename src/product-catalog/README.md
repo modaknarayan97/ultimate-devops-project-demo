@@ -1,4 +1,4 @@
-# Product Catalog Service
+# Product Catalog Service 
 
 When this service is run the output should be similar to the following
 
@@ -32,7 +32,7 @@ To build the protos, run from the root directory:
 make docker-generate-protobuf
 ```
 
-## Bump dependencies
+## Bump dependencies 
 
 To bump all dependencies run:
 
