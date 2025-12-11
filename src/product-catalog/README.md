@@ -1,4 +1,4 @@
-# Product Catalog Service 10/12/2025
+# Product Catalog Service 
 
 When this service is run the output should be similar to the following
 
